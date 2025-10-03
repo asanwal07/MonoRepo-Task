@@ -1,0 +1,11 @@
+diff --git a/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml b/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml
+index aba5f56..c026199 100644
+--- a/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml
++++ b/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml
+@@ -1,6 +1,3 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <paths>
+-  <external-path
+-    name="shared"
+-    path="." />
+ </paths>
