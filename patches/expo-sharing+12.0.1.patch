@@ -1,0 +1,11 @@
+diff --git a/node_modules/expo-sharing/android/src/main/res/xml/sharing_provider_paths.xml b/node_modules/expo-sharing/android/src/main/res/xml/sharing_provider_paths.xml
+index 6b28337..975823c 100644
+--- a/node_modules/expo-sharing/android/src/main/res/xml/sharing_provider_paths.xml
++++ b/node_modules/expo-sharing/android/src/main/res/xml/sharing_provider_paths.xml
+@@ -1,6 +1,5 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <paths>
+-  <external-path name="expo_external_files" path="." />
+   <files-path name="expo_files" path="." />
+   <cache-path name="cached_expo_files" path="." />
+ </paths>
